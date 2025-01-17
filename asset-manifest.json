@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/Iriza-peace/notebook/static/css/main.fa858b8d.chunk.css",
-    "main.js": "/Iriza-peace/notebook/static/js/main.2c1d65ab.chunk.js",
-    "main.js.map": "/Iriza-peace/notebook/static/js/main.2c1d65ab.chunk.js.map",
-    "runtime-main.js": "/Iriza-peace/notebook/static/js/runtime-main.3e41752f.js",
-    "runtime-main.js.map": "/Iriza-peace/notebook/static/js/runtime-main.3e41752f.js.map",
-    "static/js/2.fbeece0d.chunk.js": "/Iriza-peace/notebook/static/js/2.fbeece0d.chunk.js",
-    "static/js/2.fbeece0d.chunk.js.map": "/Iriza-peace/notebook/static/js/2.fbeece0d.chunk.js.map",
-    "index.html": "/Iriza-peace/notebook/index.html",
-    "static/css/main.fa858b8d.chunk.css.map": "/Iriza-peace/notebook/static/css/main.fa858b8d.chunk.css.map",
-    "static/js/2.fbeece0d.chunk.js.LICENSE.txt": "/Iriza-peace/notebook/static/js/2.fbeece0d.chunk.js.LICENSE.txt"
+    "main.css": "/cleanfolio/static/css/main.66e056fc.css",
+    "main.js": "/cleanfolio/static/js/main.26a291e9.js",
+    "index.html": "/cleanfolio/index.html",
+    "main.66e056fc.css.map": "/cleanfolio/static/css/main.66e056fc.css.map",
+    "main.26a291e9.js.map": "/cleanfolio/static/js/main.26a291e9.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e41752f.js",
-    "static/js/2.fbeece0d.chunk.js",
-    "static/css/main.fa858b8d.chunk.css",
-    "static/js/main.2c1d65ab.chunk.js"
+    "static/css/main.66e056fc.css",
+    "static/js/main.26a291e9.js"
   ]
 }
